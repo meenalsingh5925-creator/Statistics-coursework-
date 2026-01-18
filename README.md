@@ -10,6 +10,7 @@ Descriptive statistics
 Mean , mode and median
 Data interpretation
 Basic probability concepts
+
 Purpose:-
 
 Academic learning and practice
